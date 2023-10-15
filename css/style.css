@@ -1,36 +1,30 @@
-a{
-    text-decoration: none;
-    font-size: 17px;
+p {
+  text-decoration: none;
 }
 
-p{
-    font-size: 17px;
+a {
+  text-decoration: none;
 }
 
-a:hover{
-    color: black !important;
+i {
+  font-size: 2rem;
+  color: rgb(3, 191, 3);
 }
 
-i{
-    font-size: 25px;
+.fa-whatsapp {
+  color: green;
 }
 
-.fa-instagram{
-    color: rgb(226, 43, 159) !important;
+.fa-instagram {
+  color: rgb(226, 43, 159);
 }
 
-.fa-twitter{
-    color: rgb(27, 150, 250);
+.fa-twitter {
+  color: rgb(27, 150, 250);
 }
 
-.fa-user{
-    color: rgb(15, 215, 15);
-}
-.fa-cart-shopping{
-    color: rgb(15, 215, 15);
+.fa-facebook {
+  color: blue;
 }
 
-.titulo{
-    background-color:rgb(4, 188, 4) ;
-}
-
+/*# sourceMappingURL=style.css.map */
