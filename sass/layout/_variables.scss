@@ -1,4 +1,10 @@
-$verdebtn: rgb(5, 185, 5);
-$success: $verdebtn !default;
+$success: #009929;
+$danger: #ff4136;
 
-$btn-success: rgb(4, 192, 4);
+
+
+$theme-colors: (
+  "success": $success,
+  "danger": $danger
+);
+

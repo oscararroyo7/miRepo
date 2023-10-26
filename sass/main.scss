@@ -3,7 +3,12 @@
 
 
 
+
+@import "../node_modules/bootstrap/scss/bootstrap";
 @import "layout/texto";
 @import "layout/redes";
 @import "layout/botones";
-@import "layout/variables"
+@import "layout/variables";
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "layout/card";
+@import "layout/imagenes"
